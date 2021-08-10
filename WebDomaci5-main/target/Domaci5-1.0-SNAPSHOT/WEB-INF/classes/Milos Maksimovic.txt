@@ -1,0 +1,27 @@
+Ime tima Milos Maksimovic
+Email: maksakralj@gmail.com
+Telefon: +10642565776
+Moto tima: aaa
+Broj clanova:3
+--------------------------------------
+Haker Milos Maksimovic
+Prezime Kreten
+Email maksakralj@gmail.com
+Broj hakatona 2
+Opis Nista
+Opis https://www.youtube.com/
+--------------------------------------
+Haker Milos Maksimovic
+Prezime dd
+Email maksakralj@gmail.com
+Broj hakatona 2
+Opis dsad
+Opis https://www.youtube.com/
+--------------------------------------
+Haker Milos Maksimovic
+Prezime dd
+Email maksakralj@gmail.com
+Broj hakatona 2
+Opis aaa
+Opis https://www.youtube.com/
+--------------------------------------
